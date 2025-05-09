@@ -2,4 +2,6 @@
 Mi primer repositorio
 
 Agregando informacion local 
-agrenando info desde la web de githu😊
+agrenando info desde la web de github 😊
+
+Aprendiendo github
