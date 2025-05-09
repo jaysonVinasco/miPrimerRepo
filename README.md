@@ -10,4 +10,5 @@ Colombia, oficialmente República de Colombia, es un país ubicado en la región
 - **Población:** Aproximadamente 50 millones de habitantes
 - **Superficie:** 1,141,748 km²
 
-E
+## Población
+- 52.32 millones 
