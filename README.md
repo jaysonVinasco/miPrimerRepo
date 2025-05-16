@@ -20,4 +20,12 @@ Colombia, oficialmente República de Colombia, es un país ubicado en la región
 ## Población
 - 52.32 millones
 
+## Ciudades principales:
+- **Bogota**
+- **Medellin**
+- **Cali**
+- **Barranquilla**
+- **Manizales**
+- **Pereira**
+
 
