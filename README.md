@@ -28,5 +28,9 @@ Colombia, oficialmente República de Colombia, es un país ubicado en la región
 - **Manizales**
 - **Pereira**
 
-## Agregando colores
-- **Amarillo - azul - rojo**
+## Mapa de Colombia
+<br>
+
+![Mapa de Colombia](img/colombiaMapa.png)
+
+<br>
